@@ -21,3 +21,7 @@ $ javac UDPClient.java
 $ java UDPServer
 $ java UDPClient
 ```
+
+### How the application (client/server) works? 
+
+This application contains two main component, a client program and a server program. This ....

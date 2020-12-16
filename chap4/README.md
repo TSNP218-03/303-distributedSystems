@@ -28,4 +28,4 @@ This application contains two main component, a client program and a server prog
 
 This image below shown the architecture of client/server UDP program. 
 
-![The architecture of client/server UDP Java Program](https://pasteboard.co/JF7KAjP.png)
+![The architecture of client server UDP Java Program](https://pasteboard.co/JF7KAjP.png)
